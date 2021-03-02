@@ -4,7 +4,6 @@ from urllib.parse import urljoin
 from database.db import Database
 
 
-
 """
 FIFO
 FILO
